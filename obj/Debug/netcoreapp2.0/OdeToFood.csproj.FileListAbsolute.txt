@@ -1,0 +1,10 @@
+/Users/vknez/Documents/Programming/AspDotNetCore/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.deps.json
+/Users/vknez/Documents/Programming/AspDotNetCore/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.runtimeconfig.json
+/Users/vknez/Documents/Programming/AspDotNetCore/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/AspDotNetCore/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.dll
+/Users/vknez/Documents/Programming/AspDotNetCore/OdeToFood/bin/Debug/netcoreapp2.0/OdeToFood.pdb
+/Users/vknez/Documents/Programming/AspDotNetCore/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.csproj.CoreCompileInputs.cache
+/Users/vknez/Documents/Programming/AspDotNetCore/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.AssemblyInfoInputs.cache
+/Users/vknez/Documents/Programming/AspDotNetCore/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/AspDotNetCore/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.dll
+/Users/vknez/Documents/Programming/AspDotNetCore/OdeToFood/obj/Debug/netcoreapp2.0/OdeToFood.pdb

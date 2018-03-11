@@ -1,0 +1,14 @@
+@page "{id:int?}"
+@model DetailsModel
+@{
+    ViewData["Title"] = Model.Restaurant.Name;
+}
+
+<h1>@Model.Restaurant.Name</h1>
+<div>
+    Id: @Model.Restaurant.Id
+</div>
+<div>
+    Cuisine: @Model.Restaurant.Cuisine
+</div>
+<a asp-page="/Index">Home</a>

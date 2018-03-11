@@ -1,0 +1,16 @@
+@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h1>All Restaurants</h1>
+
+@foreach (var restaurant in @Model.Restaurants)
+{
+    @Html.Partial("_Summary", restaurant)
+}
+
+<div>
+    <a class="btn btn-primary" asp-page="/Restaurants/Create">Add Restaurant</a>
+</div>

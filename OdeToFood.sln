@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdeToFood", "OdeToFood.csproj", "{99C7C50C-AFA4-4779-97EE-ED4FD5ABF147}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C7C50C-AFA4-4779-97EE-ED4FD5ABF147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C7C50C-AFA4-4779-97EE-ED4FD5ABF147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C7C50C-AFA4-4779-97EE-ED4FD5ABF147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C7C50C-AFA4-4779-97EE-ED4FD5ABF147}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
